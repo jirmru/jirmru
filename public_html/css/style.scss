@@ -4,14 +4,14 @@ $primary-text-color: #333;
 $font-stack: Helvetica, sans-serif;
 
 body {
-  background-color: $primary-bg-color;
-  color: $primary-text-color;
-  font-family: $font-stack;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-  margin: 0;
-  text-align: center;
-  line-height: 1.6;
+	background-color: $primary-bg-color;
+	color: $primary-text-color;
+	font-family: $font-stack;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	margin: 0;
+	text-align: center;
+	line-height: 1.6;
 }
